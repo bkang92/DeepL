@@ -1,0 +1,1 @@
+python demo_st.py --device 1 --test_epoch 24 --video samples/KakaoTalk_20201208_164725097.mp4
